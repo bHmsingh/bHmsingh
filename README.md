@@ -1,8 +1,7 @@
 ## Hi there 👋
-## I am Hari based in luxembourg 
-## Turn data into insights with scalable solutions where data quality, compliance, and business outcomes intersect
-# Let's Connect
-# Open to collaborate on ML or data engineering projects. 
+- A'm Hari - data and ml practioner lives in luxembourg
+- passionate about transforming data in to insights especially where data quality, compliance and business outcomes intersect
+- Open to colloborate on ML or data engineering
 
 
 
