@@ -1,5 +1,10 @@
 ## Hi there 👋
-## I am Hari
+## I am Hari based out of luxembourg 
+## Turn data into insights with scalable solutions  - especially where data quality, compliance, and business outcomes intersect
+# Let's Connect
+# Open to collaborating on production ML/data engineering projects. Happy to discuss ML architecture, data platforms, or regulated AI systems. Reach out if you're working on something interesting.
+
+
 <!--
 **bHmsingh/bHmsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
