@@ -1,5 +1,5 @@
 Hi there 👋
-- A'm Hari - an data and AI engineer with over a decade of experience in artificial intelligence. At Datalumina, I lead the AI projects, where we're always pushing the boundaries of what's possible while still building reliable applications.
+- I'm Hari, data and AI engineer with over a decade of experience in artificial intelligence. At Datalumina, I lead the AI projects, where we're always pushing the boundaries of what's possible while still building reliable applications.
 
 
 Along the way:
