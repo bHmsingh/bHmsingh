@@ -9,7 +9,7 @@ Along the way:
 - Delivered 10+ custom B2B AI solutions
 - Masters in Statistics and Information systems 
 - passionate about transforming data in to insights especially where data quality, compliance and business outcomes intersect
-- Open to colloborate
+
 
 <!--
 **bHmsingh/bHmsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
