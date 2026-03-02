@@ -1,5 +1,5 @@
 Hi there 👋
-- I'm Hari, Senior Data & AI Engineer with 15+ years architecting end-to-end data pipelines - building pipelines, designing migrations, and shipping ML solutions across finance, telecom, and retail. I work mostly with Python, Spark, SQL, and cloud platforms and agentic AI
+I'm Hari, Senior Data & AI Engineer with 15+ years architecting end-to-end data pipelines - building pipelines, designing migrations, and shipping ML solutions across finance, telecom, and retail. I work mostly with Python, Spark, SQL, and cloud platforms and agentic AI
 
 Along the way:
 
