@@ -4,8 +4,7 @@ I'm Hari, Senior Data & AI Engineer with 15+ years architecting end-to-end data 
 Along the way:
 
 - Diverse solutions in multiple domains- Banking, Fintech, Public Sector and campaign analytics
-- Building and scaling solutions 
-- Delivered 10+ custom B2B AI solutions
+- Building and scaling solutions - Delivered 10+ custom B2B AI solutions
 - Masters in Statistics and Information systems 
 - passionate about transforming data in to insights especially where data quality, compliance and business outcomes intersect
 
