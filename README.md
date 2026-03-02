@@ -1,5 +1,5 @@
 Hi there 👋
-- I'm Hari, data and AI engineer with over a decade of experience in data engineering and artificial intelligence. Led end to end migrations, projects to transform data with deep insights and building reliable applications.
+- I'm Hari, Senior Data & AI Engineer with 15+ years architecting end-to-end data pipelines, scalable ETL/ELT frameworks, and ML-driven solutions across Financial Services, Telecom, and Retail. Core expertise in data migration architecture, dimensional modeling, real-time streaming, and Agentic AI. Proficient in Python, SQL, Scala, Apache Spark, Airflow, and cloud-native stacks (AWS, GCP, Azure). Passionate about transforming raw data into production-grade analytics and intelligent applications.
 
 Along the way:
 
